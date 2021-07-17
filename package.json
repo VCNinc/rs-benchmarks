@@ -1,0 +1,17 @@
+{
+  "name": "rs-benchmarks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lrs": "^0.1.5",
+    "lrs14": "^0.1.4",
+    "ring-crypto": "^1.0.8",
+    "trs-js": "^0.2.0"
+  }
+}
